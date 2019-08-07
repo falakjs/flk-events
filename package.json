@@ -1,0 +1,17 @@
+{
+    "name": "flk-events",
+    "description": "A powerful yet easy event emitter.",
+    "version": "0.1.56",
+    "main": "src/events.js",
+    "dependencies": {
+        "flk-supportive-is": "^0.2.3"
+    },
+    "author": {
+        "email": "hassanzohdy@gmail.com",
+        "name": "Hasan Zohdy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-events"
+    }
+}
